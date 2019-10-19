@@ -1,0 +1,29 @@
+Targets
+    Occurrences of 'href=\"(https://github.com/[0-0a-zA-Z\-]+/[0-0a-zA-Z\-]+)\">' in Project
+Found Occurrences  (22 usages found)
+    Usage in string constants  (22 usages found)
+        OpenAndroidApp  (22 usages found)
+            html  (22 usages found)
+                communication.html  (22 usages found)
+                    1172 <td align="center"><a href="https://github.com/guardianproject/ChatSecureAndroid">ChatSecureAndroid</a></td>
+                    1286 <td align="center"><a href="https://github.com/irccloud/android">IRCCloud</a></td>
+                    1330 <td align="center"><a href="https://github.com/coderkiss/KissProxy">KissProxy</a></td>
+                    1336 <td align="center"><a href="https://github.com/kontalk/androidclient">Kontalk Messenger</a></td>
+                    1342 <td align="center"><a href="https://github.com/blurpy/kouchat-android">KouChat</a></td>
+                    1386 <td align="center"><a href="https://github.com/Odoo-mobile/messaging">messaging</a></td>
+                    1392 <td align="center"><a href="https://github.com/mogutt/TTAndroidClient">mogujie TeamTalk</a></td>
+                    1449 <td align="center"><a href="https://github.com/madeye/proxydroid">ProxyDroid</a></td>
+                    1468 <td align="center"><a href="https://github.com/qklabs/qksms">qksms</a></td>
+                    1506 <td align="center"><a href="https://github.com/surespot/android">surespot</a></td>
+                    1512 <td align="center"><a href="https://github.com/WhisperSystems/Signal-Android">Signal</a></td>
+                    1531 <td align="center"><a href="https://github.com/tutao/tutanota">Tutanota</a></td>
+                    1537 <td align="center"><a href="https://github.com/DrKLO/Telegram">Telegram Messenger</a></td>
+                    1543 <td align="center"><a href="https://github.com/Anasthase/TintBrowser">TintBrowser</a></td>
+                    1581 <td align="center"><a href="https://github.com/VideoFly/VideoFly">VideoFly</a></td>
+                    1600 <td align="center"><a href="https://github.com/motianhuo/wechat">WeChat</a></td>
+                    1606 <td align="center"><a href="https://github.com/js-labs/WalkieTalkie">WiFi Walkie Talkie</a></td>
+                    1612 <td align="center"><a href="https://github.com/wireapp/wire">Wire</a></td>
+                    1650 <td align="center"><a href="https://github.com/pocmo/Yaaic">Yaaic</a></td>
+                    1669 <td align="center"><a href="https://github.com/zulip/zulip-android">Zulip Android</a></td>
+                    1708 <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+                    1709 <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>

@@ -1,0 +1,18 @@
+Targets
+    Occurrences of 'href=\"(https://github.com/[0-0a-zA-Z\-]+/[0-0a-zA-Z\-]+)\">' in Project
+Found Occurrences  (11 usages found)
+    Usage in string constants  (11 usages found)
+        OpenAndroidApp  (11 usages found)
+            html  (11 usages found)
+                education.html  (11 usages found)
+                    1135 <td align="center"><a href="https://github.com/ankidroid/Anki-Android">AnkiDroid</a></td>
+                    1141 <td align="center"><a href="https://github.com/MummyDing/Awesome-Campus">Awesome-Campus</a></td>
+                    1255 <td align="center"><a href="https://github.com/jparkie/GivesMeHopeAndroidClient">GivesMeHope</a></td>
+                    1280 <td align="center"><a href="https://github.com/appteam-nith/Hillffair">Hillffair</a></td>
+                    1356 <td align="center"><a href="https://github.com/Nightonke/LeeCo">LeeCo</a></td>
+                    1400 <td align="center"><a href="https://github.com/appteam-nith/festnimbus">festnimbus</a></td>
+                    1495 <td align="center"><a href="https://github.com/Neophytes/microsoft-pragyan-hackathon">Sahayak</a></td>
+                    1501 <td align="center"><a href="https://github.com/StepicOrg/stepic-android">Stepic</a></td>
+                    1577 <td align="center"><a href="https://github.com/xiprox/WaniKani-for-Android">WaniKani for Android</a></td>
+                    1673 <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+                    1674 <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
