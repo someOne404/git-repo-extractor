@@ -1,54 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7535124-07e7-445d-a911-fbb95832c138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenAndroidApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mutli_media.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/communication.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/education.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/finance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/health.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/mutli_media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/productivity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/social_network.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/tools.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/travel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/communication.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/education.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/finance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/game.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productivity.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_network.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/communication.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/education.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/finance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/health.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/mutli_media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/productivity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/social_network.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/tools.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/travel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel.txt" afterDir="false" />
+    <list default="true" id="e7535124-07e7-445d-a911-fbb95832c138" name="Default Changelist" comment="Main and sample input html files (open source android apps collected at github.com/pcqpcq/open-source-android-apps)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/communication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/finance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/health.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/mutli_media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/productivity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/social_network.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/tools.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/html/travel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/communication.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/education.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/finance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OpenAndroidApp/txt/game.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,6 +162,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571433757165</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main and sample input html files (open source android apps collected at github.com/pcqpcq/open-source-android-apps)">
+      <created>1571509083613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571509083614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -215,12 +193,12 @@
       <window_info id="Favorites" order="7" sideWeight="0.5021097" side_tool="true" weight="0.24161074" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30933332" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34844193" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34844193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31824416" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -233,6 +211,36 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main and sample input html files (open source android apps collected at github.com/pcqpcq/open-source-android-apps)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main and sample input html files (open source android apps collected at github.com/pcqpcq/open-source-android-apps)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/urls.txt">
@@ -869,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
